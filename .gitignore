@@ -1,2 +1,4 @@
 
 pywin*
+/tmp/*
+env.json
