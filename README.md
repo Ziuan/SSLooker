@@ -28,4 +28,4 @@ https://github.com/tesseract-ocr/tesseract/wiki/ImproveQuality
 
 # Usage
 
-./python3 main.py
+./python3 main.py <app>
